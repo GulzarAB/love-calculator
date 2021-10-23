@@ -1,1 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: block;
+    font-family:'Dancing Script', cursive;
+    background-image: url(/img/pexels-photo-326612.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+h1 {
+    text-align: center;
+    margin-top: 80px;
+    font-size: 50px;
+}
+
+p {
+    text-align: center;
+    font-size: 40px;
+}
+
+form {
+    text-align: center;
+    align-items: center;
+   
+  
+}
+ img{
+     width: 100px;
+ }
+
+ .input {
+     border-radius: 5px;
+     border: solid 2px black;
+     padding: 10px;
+ }
+
+ button {
+    align-items: center;
+    text-align: center;
+    margin-left: 810px;
+    margin-top: 30px;
+    background-color: red;
+    padding: 5px 20px 5px 20px;
+    border-radius: 5px;
+    border: solid 2px black;
+    font-size: 25px;
+    font-family:'Dancing Script', cursive ;
+ }
+
+ button:hover {
+     color: white;
+ }
 
